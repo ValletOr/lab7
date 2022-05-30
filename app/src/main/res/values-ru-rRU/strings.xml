@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab7. Игра: Угадай число</string>
+    <string name="rulesLabel">Правила</string>
+    <string name="customRulesLabel">Дополнительные правила</string>
+    <string name="attemptsLabel">Число попыток</string>
+    <string name="numberLabel">Загаданное число</string>
+    <string name="startButton">Начать</string>
+    <string name="attemptsHintTextField">Введите чило попыток</string>
+    <string name="numberHintTextField">Введите число</string>
+    <string name="minNumLabel">Минимальное число</string>
+    <string name="maxNumLabel">Максимальное число</string>
+    <string name="minNumHintTextField">Мин. число</string>
+    <string name="maxNumHintTextField">Макс. число</string>
+    <string name="guessLabel">Ваше число:</string>
+    <string name="guessHintTextField">Введите число</string>
+    <string name="guessButton">Проверить</string>
+    <string name="guessResultSmallLabel">Попробуй взять поменьше!</string>
+    <string name="guessResultBigLabel">Попробуй взять побольше!</string>
+    <string name="guessResultWinLabel">Ура! Ты угадал!</string>
+    <string name="guessResultLoseLabel">Ты проиграл…</string>
+    <string name="attemptsCounterLabel">Попыток осталось:</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lab7. Game: "Guess the number"</string>
+    <string name="rulesLabel">Rules</string>
+    <string name="customRulesLabel">Custom rules</string>
+    <string name="attemptsLabel">Attempts</string>
+    <string name="numberLabel">Number</string>
+    <string name="startButton">Start</string>
+    <string name="attemptsHintTextField">Input number of attempts</string>
+    <string name="numberHintTextField">Input number</string>
+    <string name="minNumLabel">Min number</string>
+    <string name="maxNumLabel">Max number</string>
+    <string name="minNumHintTextField">min num</string>
+    <string name="maxNumHintTextField">max num</string>
+    <string name="guessLabel">Your number:</string>
+    <string name="guessHintTextField">Number</string>
+    <string name="guessButton">Guess</string>
+    <string name="guessResultSmallLabel">Try a smaller number!</string>
+    <string name="guessResultBigLabel">Try a bigger number!</string>
+    <string name="guessResultWinLabel">Congrats! Your guess is right!</string>
+    <string name="guessResultLoseLabel">You lose…</string>
+    <string name="attemptsCounterLabel">Attempts left: </string>
+</resources>
